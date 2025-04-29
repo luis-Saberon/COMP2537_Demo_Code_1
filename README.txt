@@ -1,4 +1,4 @@
-v1.9 - Keeping secrets, secret with dotenv
+v1.9 - Keeping secrets, secret with dotenv test
 ==========================================
 It's time we separate our passwords and secret keys from our code.
 A password or secret_key should not be stored in a git repo.
